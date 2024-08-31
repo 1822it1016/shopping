@@ -9,7 +9,7 @@ Follow these instructions to set up and run the project on your local machine.
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://gitlab.com/username/repository.git](https://github.com/1822it1016/shopping.git)
+git clone https://github.com/1822it1016/shopping.git
 cd shopping
 ```
 Setting Up the Virtual Environment
